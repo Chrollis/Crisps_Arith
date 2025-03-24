@@ -1,8 +1,8 @@
 # Crisps Arith
 　This is a multifuntional app of **mental arithmetic** for Chinese **elementary school students**, whose graphics library is [EasyX](https://docs.easyx.cn/).  
 　Its language is **Chinese**. There's **no** schedule to make an **English or other languages** version for it.
-## Programme
-　Though its algorithm isn't perfect enough, if you want to copy this code to reprogramme it, **please install EasyX in your PC at first**.  
+## Programming
+　Though its algorithm isn't perfect enough, if you want to copy this code to reprogram it, **please install EasyX in your PC at first**.  
 　And using VS2022, create the project as **Windows desktop appliction**.
 ## Instuction
 　There are four **scenes**, ***Main Menu*, *Login*, *Arithmetic*, and *Admin***. 
