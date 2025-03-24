@@ -15,4 +15,4 @@ When in ***Main Menu***, press **esc** to quit the app or input one legal **scen
 When generating the first user, it will create a file ***password.bin***, the initial password of which is **password**. 
 When you try to use the ***Admin***, you should input the password after inputing the target user's ID, though the password is global for encrypting the users' data. 
 And the target varible names are limited, please check the **specific names** and **input sequence** in the code. 
-For specific names, get them in [*const vector<string> legal_varible*](./pre.h#L24); for input sequence, get it in [*void Admin::proceed(clock_t delta)* for switch(state) case 7](./next.h#L801-L921).
+For specific names, get them in [*const vector<string> legal_varible*](./pre.h#L24-L63); for input sequence, get it in [*void Admin::proceed(clock_t delta)* for switch(state) case 7](./next.h#L801-L921).
